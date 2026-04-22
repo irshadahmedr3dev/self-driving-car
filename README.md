@@ -8,7 +8,7 @@ Hope this might be useful to someone! :-)
 
 ### Projects
 
-<table style="width:100%">
+<table style="width:100%">;;;;............
   <tr>
     <th>
       <p align="center">
